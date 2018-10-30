@@ -24,6 +24,7 @@ I'm happy for any hints and comments either via pull requests or email to gcgrue
 - [Develop a datajournalism mindset](DDJ-way-of-thinking.pdf)
 - [Story structure: How to place ddj elements](DDJ_StoryStructure_Options.pdf)
 - [DDJ pathway and tools for separate steps](DDJ_Pathway_Resources.pdf)
+- [DDJ prompts: What step you are (stuck) at and how to proceed](DataWrangling_Prompts.docx)
 
 
 #### Usage and license
