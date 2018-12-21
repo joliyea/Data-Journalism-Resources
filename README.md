@@ -21,8 +21,8 @@ I'm happy for any hints and comments either via pull requests or email to gcgrue
 - [List of everything that did not fit in the other lists](ddj-even-more-list.md)
 
 ## Cheatsheets
-- [Data-driven journalism workflow - step-by-step guide, in German/auf Deutsch](cheatsheets/DDJ-Flowchart_DE.pdf)
-- [Develop a datajournalism mindset](cheatsheets/DDJ-way-of-thinking.pdf)
+- Data-driven journalism workflow - step-by-step guide in [English](cheatsheets/DDJ-Flowchart_EN.pdf) and [in German/auf Deutsch](cheatsheets/DDJ-Flowchart_DE.pdf)
+- Develop a datajournalism mindset [ENGLISH VERSION](cheatsheets/DDJ-way-of-thinking.pdf) and [GERMAN/DEUTSCHE VERSION](cheatsheets/DDJ-way-of-thinking_DE.pdf)
 - [DDJ tools for separate steps along the path](cheatsheets/DDJ_Pathway_Resources.pdf)
 - [DDJ prompts: What step you are (stuck) at and how to proceed](cheatsheets/DataWrangling_Prompts.docx)
 - [Story structure: How to place ddj elements](cheatsheets/DDJ_StoryStructure_Options.pdf)
