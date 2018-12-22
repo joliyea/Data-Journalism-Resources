@@ -18,6 +18,7 @@ With his newsletter [Data is Plural](https://tinyletter.com/data-is-plural) data
 
 [**Data World**](https://data.world/) aims at being social platform and data sharing tool at once - sometimes it holds great finds.
 
+[Global Editors Network - DJA - **Collection of sports data sources**](https://medium.com/data-journalism-awards/a-data-journalists-guide-to-sports-data-cbeb0d7ab94c)
 
 ## Data by internationally operating organisations (under construction, tbc)
 
